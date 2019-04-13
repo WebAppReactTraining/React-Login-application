@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Login from './LoginPage';
 import './App.css';
-import { BrowserRouter as Router, Route } from 'react-router-dom' 
+import { BrowserRouter as Router, Route } from 'react-router-dom'; 
 import PrivateRoute from './PrivateRoute';
 import HomePage from './HomePage';
 

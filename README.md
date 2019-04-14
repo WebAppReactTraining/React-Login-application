@@ -39,3 +39,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ##Refernce Link
 http://jasonwatmore.com/post/2018/09/11/react-basic-http-authentication-tutorial-example
+https://egghead.io/lessons/javascript-introduction-to-javascript-promises-in-depth

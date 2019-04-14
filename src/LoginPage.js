@@ -33,6 +33,7 @@ class Login extends Component{
             return;
         }
     }
+    //here this {submitted && !username &&<div>Username is required</div> } return "Username is required" if submitted->true and username is null
     render(){
         const {username, password, submitted} =this.state;
         return(
